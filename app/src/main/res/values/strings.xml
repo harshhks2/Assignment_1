@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="login_heading">Welcome to this App!</string>
+    <string name="login_message">This is the login screen.\nPlease enter your credentials to\nlogin and register.</string>
+</resources>
